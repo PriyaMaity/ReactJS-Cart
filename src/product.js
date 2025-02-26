@@ -19,5 +19,5 @@ export const products = [
     image: headphonesImg,
     quantity: 1,
   },
-  { id: 4, name: "Headphones", price: 2000, image: watchImg, quantity: 1 },
+  { id: 4, name: "Watch", price: 2000, image: watchImg, quantity: 1 },
 ];
